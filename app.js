@@ -29,4 +29,8 @@ setInterval(() => {
 }, 1000)
 
 
-const number = [1,2,3,7,9,6,]
+const number = [1, 2, 3, 7, 9, 6,]
+
+for (number){
+    
+}
